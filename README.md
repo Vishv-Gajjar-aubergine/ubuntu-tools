@@ -70,13 +70,13 @@ cd ubuntu-tools
 **Step 3: Make the Script Executable**
 
 ```
-chmod +x install_tools.sh
+chmod +x install-tools.sh
 ```
 
 **Step 4: Run the Installation Script**
 
 ```
-./install_tools.sh
+./install-tools.sh
 ```
 
 
@@ -90,11 +90,11 @@ cd ubuntu-tools
 **Step 2: Make the Script Executable**
 
 ```
-chmod +x uninstall_tools.sh
+chmod +x uninstall-tools.sh
 ```
 
 **Step 4: Run the Installation Script**
 
 ```
-./uninstall_tools.sh
+./uninstall-tools.sh
 ```
