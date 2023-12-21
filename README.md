@@ -78,3 +78,23 @@ chmod +x install_tools.sh
 ```
 ./install_tools.sh
 ```
+
+
+### uninstall tools
+**Step 1: Navigate to the Repository Directory**
+
+```
+cd ubuntu-tools
+```
+
+**Step 2: Make the Script Executable**
+
+```
+chmod +x uninstall_tools.sh
+```
+
+**Step 4: Run the Installation Script**
+
+```
+./uninstall_tools.sh
+```
