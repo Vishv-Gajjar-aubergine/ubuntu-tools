@@ -1,5 +1,3 @@
-# ubuntu-tools
-aubergine ubuntu tools
 # Development Environment Setup
 
 This repository contains a script for automating the installation of various development tools and services on a Ubuntu-based system. The script provides an easy way to set up a development environment with essential tools commonly used in software development.
@@ -45,4 +43,38 @@ This repository contains a script for automating the installation of various dev
 13. **Grafana:**
     - Description: Grafana is an open-source platform for monitoring and observability.
 
-## Usage
+## How to Use
+
+### Prerequisites
+
+Before running the installation script, ensure that you have the following:
+
+- A Ubuntu-based system.
+- Sufficient permissions to execute scripts.
+- Internet connectivity for package installation.
+
+### Installation Steps
+
+**Step 1: Clone the Repository**
+
+```
+git clone https://github.com/Vishv-Gajjar-aubergine/ubuntu-tools.git
+```
+
+**Step 2: Navigate to the Repository Directory**
+
+```
+cd ubuntu-tools
+```
+
+**Step 3: Make the Script Executable**
+
+```
+chmod +x install.sh
+```
+
+**Step 4: Run the Installation Script**
+
+```
+./install.sh
+```
