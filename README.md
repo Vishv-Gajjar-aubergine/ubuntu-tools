@@ -14,7 +14,7 @@
 12. **Prometheus:**     - Description: Prometheus is an open-source monitoring and alerting toolkit designed for reliability and scalability.  
 13. **Grafana:**     - Description: Grafana is an open-source platform for monitoring and observability.  
 ## How to Use  
-##Prerequisites  Before running the installation script, ensure that you have the following: 
+## Prerequisites  Before running the installation script, ensure that you have the following: 
 
 - A Ubuntu-based system. 
 - Sufficient permissions to execute scripts. 
